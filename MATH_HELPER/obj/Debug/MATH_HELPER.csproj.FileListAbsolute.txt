@@ -1,0 +1,5 @@
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER\bin\Debug\MATH_HELPER.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER\bin\Debug\MATH_HELPER.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER\obj\Debug\MATH_HELPER.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER\obj\Debug\MATH_HELPER.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER\obj\Debug\MATH_HELPER.csprojResolveAssemblyReference.cache

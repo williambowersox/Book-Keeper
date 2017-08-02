@@ -1,0 +1,7 @@
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\Physics\obj\Debug\Physics.csprojResolveAssemblyReference.cache
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\Physics\bin\Debug\Physics.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\Physics\bin\Debug\Physics.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\Physics\bin\Debug\MATH_HELPER.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\Physics\bin\Debug\MATH_HELPER.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\Physics\obj\Debug\Physics.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\Physics\obj\Debug\Physics.pdb

@@ -1,0 +1,9 @@
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\UIControls\bin\Debug\UIControls.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\UIControls\bin\Debug\UIControls.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\UIControls\bin\Debug\MATH_HELPER.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\UIControls\bin\Debug\MATH_HELPER.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\UIControls\obj\Debug\UIControls.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\UIControls\obj\Debug\UIControls.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\UIControls\obj\Debug\UIControls.csprojResolveAssemblyReference.cache
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\UIControls\bin\Debug\Physics.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\UIControls\bin\Debug\Physics.pdb

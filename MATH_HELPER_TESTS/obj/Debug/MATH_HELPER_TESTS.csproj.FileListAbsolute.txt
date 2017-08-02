@@ -1,0 +1,9 @@
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER_TESTS\bin\Debug\MATH_HELPER_TESTS.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER_TESTS\bin\Debug\MATH_HELPER_TESTS.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER_TESTS\bin\Debug\MATH_HELPER.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER_TESTS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER_TESTS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER_TESTS\bin\Debug\MATH_HELPER.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER_TESTS\obj\Debug\MATH_HELPER_TESTS.csprojResolveAssemblyReference.cache
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER_TESTS\obj\Debug\MATH_HELPER_TESTS.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\MATH_HELPER_TESTS\obj\Debug\MATH_HELPER_TESTS.pdb

@@ -1,0 +1,12 @@
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\bin\Debug\SmallBussinessTEST.Suite.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\bin\Debug\SmallBussinessTEST.Suite.pdb
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\obj\Debug\SmallBussinessTEST.Suite.csprojResolveAssemblyReference.cache
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\obj\Debug\SmallBussinessTEST.Suite.dll
+C:\Users\STRAT\Documents\GitHub\SmallBussiness.Suite\SmallBussinessTEST.Suite\obj\Debug\SmallBussinessTEST.Suite.pdb
